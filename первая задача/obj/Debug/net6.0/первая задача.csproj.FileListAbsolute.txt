@@ -1,0 +1,16 @@
+C:\Users\21\Desktop\lesson1\первая задача\bin\Debug\net6.0\первая задача.exe
+C:\Users\21\Desktop\lesson1\первая задача\bin\Debug\net6.0\первая задача.deps.json
+C:\Users\21\Desktop\lesson1\первая задача\bin\Debug\net6.0\первая задача.runtimeconfig.json
+C:\Users\21\Desktop\lesson1\первая задача\bin\Debug\net6.0\первая задача.dll
+C:\Users\21\Desktop\lesson1\первая задача\bin\Debug\net6.0\ref\первая задача.dll
+C:\Users\21\Desktop\lesson1\первая задача\bin\Debug\net6.0\первая задача.pdb
+C:\Users\21\Desktop\lesson1\первая задача\obj\Debug\net6.0\первая задача.GlobalUsings.g.cs
+C:\Users\21\Desktop\lesson1\первая задача\obj\Debug\net6.0\первая задача.csproj.AssemblyReference.cache
+C:\Users\21\Desktop\lesson1\первая задача\obj\Debug\net6.0\первая задача.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\21\Desktop\lesson1\первая задача\obj\Debug\net6.0\первая задача.AssemblyInfoInputs.cache
+C:\Users\21\Desktop\lesson1\первая задача\obj\Debug\net6.0\первая задача.AssemblyInfo.cs
+C:\Users\21\Desktop\lesson1\первая задача\obj\Debug\net6.0\первая задача.csproj.CoreCompileInputs.cache
+C:\Users\21\Desktop\lesson1\первая задача\obj\Debug\net6.0\первая задача.dll
+C:\Users\21\Desktop\lesson1\первая задача\obj\Debug\net6.0\ref\первая задача.dll
+C:\Users\21\Desktop\lesson1\первая задача\obj\Debug\net6.0\первая задача.pdb
+C:\Users\21\Desktop\lesson1\первая задача\obj\Debug\net6.0\первая задача.genruntimeconfig.cache
